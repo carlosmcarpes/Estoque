@@ -30,6 +30,8 @@ namespace Estoque.Controllers
             return Ok(tipoProdutos);
         }
 
+
+
         [HttpGet("{id}")]
         public IActionResult recuperarPorId(int Id)
         {
