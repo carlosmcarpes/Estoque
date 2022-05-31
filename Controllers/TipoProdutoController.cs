@@ -1,3 +1,4 @@
+using Internal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,8 +31,6 @@ namespace Estoque.Controllers
             return Ok(tipoProdutos);
         }
 
-
-
         [HttpGet("{id}")]
         public IActionResult recuperarPorId(int Id)
         {
@@ -44,6 +43,16 @@ namespace Estoque.Controllers
             return NotFound();
 
         }
+
+        public TipoProduto listar()
+        {
+            Console.wri
+        }
+            Filme filme = new Filme()
+            {
+                console.log(filme.nome);
+            }
+        
         
     }
 }
