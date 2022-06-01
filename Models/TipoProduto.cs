@@ -8,6 +8,8 @@ namespace Estoque.Models
 {
     public class TipoProduto
     {
+        [Key]
+        [Required]
         public int id {get; set;}
 
         [Required (ErrorMessage ="descrição obrigatório")]
