@@ -1,4 +1,3 @@
-using Internal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -44,14 +43,9 @@ namespace Estoque.Controllers
 
         }
 
-        public TipoProduto listar()
-        {
-            Console.wri
-        }
-            Filme filme = new Filme()
-            {
-                console.log(filme.nome);
-            }
+        
+
+            
         
         
     }
