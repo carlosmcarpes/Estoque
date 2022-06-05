@@ -15,7 +15,7 @@ namespace Estoque.Models
         [Required (ErrorMessage ="descrição obrigatório")]
         public string descricao {get; set;}
 
-        //teste subida para git novo
+        //teste subida
 
         
     }
