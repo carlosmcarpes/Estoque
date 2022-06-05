@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "77d2tAWWp3/Pwo+hkZvIZsrd2VOHtUNMbI4Fe9wW/v35vP1QeiYHgemUJ4z6CzTyDIX4acWqKXyayaHp8j6yUw==",
+  "dgSpecHash": "Wo0upeIFPT21rvmgZtAN+azyGbHTKi99+sStpf/zvZrMDfc/TlTMdJVQRB6LH+kfmIwKgiHOQOAaZkL75T/rdQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Estoque\\Estoque.csproj",
+  "projectFilePath": "C:\\Projetos\\Produto\\Estoque.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

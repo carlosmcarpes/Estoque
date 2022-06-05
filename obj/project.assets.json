@@ -1813,11 +1813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Estoque\\Estoque.csproj",
+      "projectUniqueName": "C:\\Projetos\\Produto\\Estoque.csproj",
       "projectName": "Estoque",
-      "projectPath": "C:\\Projetos\\Estoque\\Estoque.csproj",
+      "projectPath": "C:\\Projetos\\Produto\\Estoque.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Estoque\\obj\\",
+      "outputPath": "C:\\Projetos\\Produto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1883,7 +1883,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
